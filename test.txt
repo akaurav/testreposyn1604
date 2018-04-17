@@ -3,3 +3,4 @@ making changes in
 making another changes
 
 this is branch : three way merge
+git hub change
