@@ -2,4 +2,4 @@ this is first commit
 making changes in 
 making another changes
 
-this is 
+this is branch : three way merge
